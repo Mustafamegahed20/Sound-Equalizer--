@@ -1,0 +1,33 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource prefix="icon">
+     <file>img/skipforward.png</file>
+     <file>img/pausee.png</file>
+     <file>img/skipback.png</file>
+     <file>img/plaaay.png</file>
+     <file>img/stoop.png</file>
+     <file>img/opennfile.png</file>
+     <file>img/Bongo.png</file>
+     <file>img/speaker-volume.png</file>
+     <file>img/flute.png</file>
+     <file>img/Xylophone.png</file>
+     <file>img/double-bass.png</file>
+     <file>img/favpng_bass.png</file>
+     <file>img/saxophone.png</file>
+     <file>img/trumpet.png</file>
+     <file>img/piano.png</file>
+     <file>img/flute1.png</file>
+     <file>img/clarinet.png</file>
+     <file>img/violin.png</file>
+     <file>img/piano.png</file>
+     <file>img/clarinet.png</file>
+     <file>img/celesta.png</file>
+     <file>img/OrganPiano.png</file>
+     <file>img/tee.png</file>
+     <file>img/piano.png</file>
+     <file>img/bongos_2.png</file>
+
+
+    
+  
+ </qresource>
+ </RCC>
